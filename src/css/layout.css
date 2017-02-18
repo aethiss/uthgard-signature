@@ -1,0 +1,17 @@
+#container {
+    position: relative;
+    height: 75px;
+    background-repeat: no-repeat;
+}
+
+.guildname {
+    position: absolute;
+    top: 50px;
+    left: 74px;
+}
+
+.nickname {
+    position: absolute;
+    top: 25px;
+    left: 80px;
+}

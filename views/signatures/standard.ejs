@@ -1,1 +1,5 @@
-Ciao <%= nick %>
+<link href="/static/css/layout.css" rel="stylesheet" type="text/css">
+<div id="container" style="background-image: url('/static/images/<%= Realm.toLowerCase() %>/<%= Class.toLowerCase() %>.png');">
+    <div class="nickname"><%= Name %> (<%= Level %>)</div>
+    <div class="guildname"><%= Guild %></div>
+</div>

@@ -14,6 +14,7 @@
   "homepage": "https://github.com/aethiss/uthgard-signatur#readme",
   "dependencies": {
     "express": "^4.x.x",
-    "request": "^2.7.x"
+    "request": "^2.7.x",
+    "ejs": "^1.0.0"
   }
 }
