@@ -1,0 +1,19 @@
+{
+  "name": "Uthgard-Forum-Signature",
+  "version": "0.0.1",
+  "description": "Provide Character details for forum",
+  "scripts": {
+    "run": "./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aethiss/uthgard-signature.git"
+  },
+  "author": "Aethiss",
+  "license": "MIT",
+  "homepage": "https://github.com/aethiss/uthgard-signatur#readme",
+  "dependencies": {
+    "express": "^4.x.x",
+    "request": "^2.7.x"
+  }
+}
