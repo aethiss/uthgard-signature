@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Provide Character details for forum",
   "scripts": {
-    "run": "./server.js"
+    "run": "./server.js",
+    "start": "./server.js"
   },
   "repository": {
     "type": "git",
