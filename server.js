@@ -23,6 +23,6 @@ app.get('/player/:nick', function (req, res) {
   })
 })
 
-app.listen(80, function () {
+app.listen(8080, function () {
   console.log('Uthgard Signature Server running on port 8080')
 })
