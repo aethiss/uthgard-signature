@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Provide Character details for forum",
   "scripts": {
-    "run": "./server.js",
-    "start": "./server.js"
+    "run": "node ./server.js",
+    "start": "node ./server.js"
   },
   "repository": {
     "type": "git",
@@ -14,8 +14,10 @@
   "license": "MIT",
   "homepage": "https://github.com/aethiss/uthgard-signatur#readme",
   "dependencies": {
+    "ejs": "^1.0.0",
     "express": "^4.x.x",
+    "jimp": "^0.2.27",
     "request": "^2.7.x",
-    "ejs": "^1.0.0"
+    "streamifier": "^0.1.1"
   }
 }
